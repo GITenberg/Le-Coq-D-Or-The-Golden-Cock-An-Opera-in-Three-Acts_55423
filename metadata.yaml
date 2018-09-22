@@ -1,0 +1,26 @@
+_repo: Le-Coq-D-Or-The-Golden-Cock-An-Opera-in-Three-Acts_55423
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rimsky-Korsakov, N. (Nikolay)
+    gutenberg_agent_id: '48326'
+    url: http://www.gutenberg.org/2009/agents/48326
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2017-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55423'
+language:
+- fr
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Operas -- Librettos'
+- GITenberg
+title: 'Le Coq D''Or (The Golden Cock)
+
+  An Opera in Three Acts'
+url: http://www.gutenberg.org/ebooks/55423
